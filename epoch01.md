@@ -9,3 +9,6 @@ Validator fee: 36.0006
 | B62qnSEkCtGJcTD4eJJvSHnZNsqP8aww4kdW3GGfYir4XTnXTjeED34 |      66000      |  342.0057   |   False    |
 | B62qmeYkyQGyqcdyjagRt3M4rpyZoJLoBK7Abv1ia4LBDumJfDEF2nV |      66000      |  342.0057   |   False    |
 +---------------------------------------------------------+-----------------+-------------+------------+
+
+1\2 342.0057 MINA --> https://minaexplorer.com/wallet/B62qnSEkCtGJcTD4eJJvSHnZNsqP8aww4kdW3GGfYir4XTnXTjeED34
+2\2 342.0057 MINA --> https://minaexplorer.com/wallet/B62qmeYkyQGyqcdyjagRt3M4rpyZoJLoBK7Abv1ia4LBDumJfDEF2nV
