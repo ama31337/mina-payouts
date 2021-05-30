@@ -1,2 +1,2 @@
 # mina-payouts
-payouts stats for mina validator
+payouts stats for mina block producer
